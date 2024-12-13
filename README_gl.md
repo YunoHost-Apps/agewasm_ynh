@@ -3,17 +3,17 @@ NOTA: Este README foi creado automáticamente por <https://github.com/YunoHost/a
 NON debe editarse manualmente.
 -->
 
-# agewasm para YunoHost
+# AgeWasm para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/agewasm)](https://ci-apps.yunohost.org/ci/apps/agewasm/)
 ![Estado de funcionamento](https://apps.yunohost.org/badge/state/agewasm)
 ![Estado de mantemento](https://apps.yunohost.org/badge/maintained/agewasm)
 
-[![Instalar agewasm con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=agewasm)
+[![Instalar AgeWasm con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=agewasm)
 
 *[Le este README en outros idiomas.](./ALL_README.md)*
 
-> *Este paquete permíteche instalar agewasm de xeito rápido e doado nun servidor YunoHost.*  
+> *Este paquete permíteche instalar AgeWasm de xeito rápido e doado nun servidor YunoHost.*  
 > *Se non usas YunoHost, le a [documentación](https://yunohost.org/install) para saber como instalalo.*
 
 ## Vista xeral
@@ -24,7 +24,7 @@ A simple and secure online client-side Age key generator, encryption and decrypt
 
 ## Capturas de pantalla
 
-![Captura de pantalla de agewasm](./doc/screenshots/example.jpg)
+![Captura de pantalla de AgeWasm](./doc/screenshots/example.jpg)
 
 ## Documentación e recursos
 
