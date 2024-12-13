@@ -18,8 +18,7 @@ EZ editatu eskuz.
 
 ## Aurreikuspena
 
-This is a dummy description of this app features
-
+A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm.
 
 **Paketatutako bertsioa:** 1.1.0~ynh1
 

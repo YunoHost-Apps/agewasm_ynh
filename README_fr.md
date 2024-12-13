@@ -18,8 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
-
+Un générateur de clés Age côté client en ligne simple et sécurisé, un outil de cryptage et de décryptage construit à l'aide de wasm.
 
 **Version incluse :** 1.1.0~ynh1
 
