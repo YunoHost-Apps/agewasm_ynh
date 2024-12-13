@@ -3,7 +3,7 @@
 packaging_format = 2
 
 id = "agewasm"
-name = "agewasm"
+name = "AgeWasm"
 description.en = "Online Age Key Generator Encryption Decryption Tool"
 description.fr = "Générateur de clés Age en ligne Outil de décryptage de cryptage"
 
