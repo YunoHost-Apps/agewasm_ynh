@@ -3,29 +3,28 @@
 请勿手动编辑。
 -->
 
-# YunoHost 上的 agewasm
+# YunoHost 上的 AgeWasm
 
 [![集成程度](https://apps.yunohost.org/badge/integration/agewasm)](https://ci-apps.yunohost.org/ci/apps/agewasm/)
 ![工作状态](https://apps.yunohost.org/badge/state/agewasm)
 ![维护状态](https://apps.yunohost.org/badge/maintained/agewasm)
 
-[![使用 YunoHost 安装 agewasm](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=agewasm)
+[![使用 YunoHost 安装 AgeWasm](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=agewasm)
 
 *[阅读此 README 的其它语言版本。](./ALL_README.md)*
 
-> *通过此软件包，您可以在 YunoHost 服务器上快速、简单地安装 agewasm。*  
+> *通过此软件包，您可以在 YunoHost 服务器上快速、简单地安装 AgeWasm。*  
 > *如果您还没有 YunoHost，请参阅[指南](https://yunohost.org/install)了解如何安装它。*
 
 ## 概况
 
-This is a dummy description of this app features
-
+A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm.
 
 **分发版本：** 1.1.0~ynh1
 
 ## 截图
 
-![agewasm 的截图](./doc/screenshots/example.jpg)
+![AgeWasm 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 

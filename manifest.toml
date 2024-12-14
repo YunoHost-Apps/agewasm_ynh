@@ -3,7 +3,7 @@
 packaging_format = 2
 
 id = "agewasm"
-name = "agewasm"
+name = "AgeWasm"
 description.en = "Online Age Key Generator Encryption Decryption Tool"
 description.fr = "Générateur de clés Age en ligne Outil de décryptage de cryptage"
 
@@ -47,9 +47,10 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
+    in_subdir = false
     url = "https://github.com/MarinX/agewasm/releases/download/v1.1.0/agewasm.zip"
     sha256 = "c0e3f67b4414e2d63758e8fdaaf0e57c8161114209dcf783817cfc73b4a74624"
-    format = "zip"
+
     #autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]

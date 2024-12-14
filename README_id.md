@@ -3,29 +3,28 @@ N.B.: README ini dibuat secara otomatis oleh <https://github.com/YunoHost/apps/t
 Ini TIDAK boleh diedit dengan tangan.
 -->
 
-# agewasm untuk YunoHost
+# AgeWasm untuk YunoHost
 
 [![Tingkat integrasi](https://apps.yunohost.org/badge/integration/agewasm)](https://ci-apps.yunohost.org/ci/apps/agewasm/)
 ![Status kerja](https://apps.yunohost.org/badge/state/agewasm)
 ![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/agewasm)
 
-[![Pasang agewasm dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=agewasm)
+[![Pasang AgeWasm dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=agewasm)
 
 *[Baca README ini dengan bahasa yang lain.](./ALL_README.md)*
 
-> *Paket ini memperbolehkan Anda untuk memasang agewasm secara cepat dan mudah pada server YunoHost.*  
+> *Paket ini memperbolehkan Anda untuk memasang AgeWasm secara cepat dan mudah pada server YunoHost.*  
 > *Bila Anda tidak mempunyai YunoHost, silakan berkonsultasi dengan [panduan](https://yunohost.org/install) untuk mempelajari bagaimana untuk memasangnya.*
 
 ## Ringkasan
 
-This is a dummy description of this app features
-
+A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm.
 
 **Versi terkirim:** 1.1.0~ynh1
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada agewasm](./doc/screenshots/example.jpg)
+![Tangkapan Layar pada AgeWasm](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
