@@ -24,7 +24,7 @@ A simple and secure online client-side Age key generator, encryption and decrypt
 
 ## Schermafdrukken
 
-![Schermafdrukken van AgeWasm](./doc/screenshots/example.jpg)
+![Schermafdrukken van AgeWasm](./doc/screenshots/screenshot.png)
 
 ## Documentatie en bronnen
 

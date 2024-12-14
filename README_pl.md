@@ -24,7 +24,7 @@ A simple and secure online client-side Age key generator, encryption and decrypt
 
 ## Zrzuty ekranu
 
-![Zrzut ekranu z AgeWasm](./doc/screenshots/example.jpg)
+![Zrzut ekranu z AgeWasm](./doc/screenshots/screenshot.png)
 
 ## Dokumentacja i zasoby
 

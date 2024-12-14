@@ -24,7 +24,7 @@ Un générateur de clés Age côté client en ligne simple et sécurisé, un out
 
 ## Captures d’écran
 
-![Capture d’écran de AgeWasm](./doc/screenshots/example.jpg)
+![Capture d’écran de AgeWasm](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 

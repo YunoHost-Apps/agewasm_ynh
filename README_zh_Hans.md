@@ -24,7 +24,7 @@ A simple and secure online client-side Age key generator, encryption and decrypt
 
 ## 截图
 
-![AgeWasm 的截图](./doc/screenshots/example.jpg)
+![AgeWasm 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 
