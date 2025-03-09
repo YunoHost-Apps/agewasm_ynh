@@ -20,6 +20,7 @@ No se debe editar a mano.
 
 A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm.
 
+
 **Versión actual:** 1.2.0~ynh1
 
 ## Capturas
