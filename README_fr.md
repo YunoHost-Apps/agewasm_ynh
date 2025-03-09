@@ -20,7 +20,8 @@ Il NE doit PAS être modifié à la main.
 
 Un générateur de clés Age côté client en ligne simple et sécurisé, un outil de cryptage et de décryptage construit à l'aide de wasm.
 
-**Version incluse :** 1.1.0~ynh1
+
+**Version incluse :** 1.2.0~ynh1
 
 ## Captures d’écran
 
